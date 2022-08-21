@@ -60,5 +60,5 @@ npm run dev
 
 [![Linkedin: Gabriela Nogueira](https://img.shields.io/badge/-GabrielaNogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriela-nogueira-190026180/)
 [![Gmail Badge](https://img.shields.io/badge/-nogueiragabriela93@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
-[![Gbariela Nogueira]( https://img.shields.io/github/followers/nogueiragabriela?label=follow&style=social)](https://github.com/nogueiragabriela)
+[![Gabriela Nogueira]( https://img.shields.io/github/followers/nogueiragabriela?label=follow&style=social)](https://github.com/nogueiragabriela)
 
