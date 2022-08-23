@@ -1,4 +1,4 @@
-# **Ignite Lab - React**
+# **Ignite Lab - React** :green_book:
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nogueiragabriela/ignite-lab-react?style=for-the-badge)
